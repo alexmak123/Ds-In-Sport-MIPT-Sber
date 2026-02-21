@@ -1,7 +1,7 @@
 | № | Тема | Семинар | Дата | Докладчик | Материалы                                             |
 |---|------|------------------------------|------|---------------|-------------------------------------------------------|
 | 1 | Введение в Data Science в спорте | - | 13.02 пт (17:00-19:15) | Макарчук | [Материалы](https://disk.yandex.ru/d/PfzyGtHO4X2PKQ)  |
-| 2 | Классические задачи CV в спорте | Базовые пайплайны детекции и трекинга на примере одного вида спорта | 20.02 пт (17:00-19:15) | Дурыгин | [Материалы](https://disk.yandex.ru/d/WPvoyICivTFzvQ) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-track-objects-with-bytetrack-tracker.ipynb) |
+| 2 | Классические задачи CV в спорте | Базовые пайплайны детекции и трекинга на примере одного вида спорта | 20.02 пт (17:00-19:15) | Дурыгин | [Материалы](https://disk.yandex.ru/d/WPvoyICivTFzvQ) [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Hh2Br4X12G3c8moSIiH6ictM-3oqvJBC?usp=sharing) |
 | 3 | Гомография, или как визуализировать футбольные метрики на ТВ-трансляции | - | 27.02 пт (17:00-19:15) | Дурыгин | TBD                                                   |
 | 4 | Детекция действий по видео модальности | zero-shot/few-shot VLM для детекции действий на примере футбола | 06.03 пт (17:00-19:15) | Дурыгин | TBD                                                   |
 | 5 | Методы работы с трекинг-данными | Предобработка (фильтрация/сглаживание/интерполяция и т.д.) и влияние методов на качество данных | 13.03 пт (17:00-19:15) | Макарчук | TBD                                                   |
