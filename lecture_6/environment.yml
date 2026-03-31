@@ -1,0 +1,20 @@
+name: wpt-notebook
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - ipykernel
+  - jupyter
+  - pip:
+    - torch
+    - kloppy>=3.0.0
+    - chronos-forecasting
+    - mplsoccer
+    - optuna
+    - scikit-learn
+    - pandas
+    - numpy
+    - matplotlib
+    - requests
